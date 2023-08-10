@@ -39,7 +39,7 @@ footer {
 }
 
 span{
-  color: #191970;
+  color: red;
 }
 
 @media (max-width: 680px){
